@@ -1,0 +1,1 @@
+{"name":"Local: word frequency","url":"c:\\Users\\HP\\Desktop\\c++ practice\\word frequency.c","tests":[{"id":1712381035328,"input":"10\nmountain\nlake\nlake\nzebra\ntree\nlake\nzebra\nzebra\nanimal\nlakes","output":"zebra 3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\HP\\Desktop\\c++ practice\\word frequency.c","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: xcvbnm","url":"c:\\Users\\HP\\Desktop\\c++ practice\\xcvbnm.cpp","tests":[{"id":1712382403004,"input":"10\nmountain\nlake\nlake\nzebra\ntree\nlake\nzebra\nzebra\nanimal\nlakes","output":"zebra 3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\HP\\Desktop\\c++ practice\\xcvbnm.cpp","group":"local","local":true}
